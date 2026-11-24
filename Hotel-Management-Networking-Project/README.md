@@ -1,5 +1,6 @@
+# Hotel Management Networking Project
 As a part of your end year networking project, you are required to design and implement Vic Modern Hotel network. The hotel has three floors; in the first floor there three departments (Reception, Store and Logistics), in the second floor there are three department (Finance, HR and Sales/Marketing), while the third floor hosts the IT and Admin Therefore, the following are part of the consideration during the design and implementation.
-
+# Requirements:
 1. There should be three routers connecting each floor (all placed in the server room in IT department).
 2. All routers should be connected to each other using serial DCE cable.
 3. The network between the routers should be 10.10.10.0/30, 10.10.10.4/30, 10.10.10.8/30.
