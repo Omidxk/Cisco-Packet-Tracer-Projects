@@ -1,4 +1,6 @@
+# Simple Office Networking Project
 Design a network in CISCO packet tracer to connect ACCOUNT and DELIVERY departments through the following:
+# Requirements:
 1. Each department should contain at least 2 PCs.
 2. Appropriate number of switches and routers should be used in network
 3. Using the given network address 192.168.40.0, all interfaces should be configured with appropriate IP addresses, subnet mask, and gateways.
